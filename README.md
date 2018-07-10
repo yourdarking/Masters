@@ -15,7 +15,12 @@ Features :
 Supported regions : NA, EUW, EUNE, BR, RU, TR, LAS, LAN, OC, KR and JP.
 
 NB:
-Masters is under continuous development, so you may find Bugs.
+Masters is under continuous development, so you may find some Bugs.
+
+
+GOOGLE PLAY URL :
+
+https://play.google.com/store/apps/details?id=com.masters
 
 Images : 
 
